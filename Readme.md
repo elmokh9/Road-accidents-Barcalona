@@ -34,10 +34,7 @@ Incident cause categorization
 Technologies Used
 
 Python
-
 Pandas for data manipulation
-
 Matplotlib/Seaborn for visualization
-
 Jupyter Notebooks for analysis
 
